@@ -1,0 +1,17 @@
+D:\SessionAssignment\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+D:\SessionAssignment\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+D:\SessionAssignment\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+D:\SessionAssignment\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+D:\SessionAssignment\DAL\bin\Debug\netstandard2.1\DAL.dll
+D:\SessionAssignment\DAL\bin\Debug\netstandard2.1\DAL.pdb
+D:\SessionAssignment\DAL\obj\Debug\netstandard2.1\DAL.dll
+D:\SessionAssignment\DAL\obj\Debug\netstandard2.1\DAL.pdb
+D:\Assignment\AssignmentCode\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+D:\Assignment\AssignmentCode\DAL\bin\Debug\netstandard2.1\DAL.dll
+D:\Assignment\AssignmentCode\DAL\bin\Debug\netstandard2.1\DAL.pdb
+D:\Assignment\AssignmentCode\DAL\obj\Debug\netstandard2.1\DAL.csprojAssemblyReference.cache
+D:\Assignment\AssignmentCode\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+D:\Assignment\AssignmentCode\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+D:\Assignment\AssignmentCode\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+D:\Assignment\AssignmentCode\DAL\obj\Debug\netstandard2.1\DAL.dll
+D:\Assignment\AssignmentCode\DAL\obj\Debug\netstandard2.1\DAL.pdb
